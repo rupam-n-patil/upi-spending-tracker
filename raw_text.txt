@@ -1,0 +1,77 @@
+Transaction statement
+9370475161, krupam143637@gmail.com
+Transactionstatementperiod Sent Received
+01March2026-31May2026 ₹53,737.97 ₹39,823
+Date&time Transactiondetails Amount
+01Mar,2026 Receivedfrom Nitin ₹1,000
+07:26PM UPI Transaction ID:606081441548
+Paidto Bankof Baroda2834
+07Mar,2026 Paidto Welcome Medical Stores ₹20
+05:36PM UPI Transaction ID:119650667870
+Paidby Bankof Baroda2834
+08Mar,2026 Paidto Welcome Medical Stores ₹10
+01:52PM UPI Transaction ID:119693402008
+Paidby Bankof Baroda2834
+09Mar,2026 Paidto SDSMCOLLEGE ₹13,953.53
+10:26AM UPI Transaction ID:119733769273
+Paidby Bankof Baroda2834
+12Mar,2026 Paidto CAFEJUSTIN ₹100
+04:24PM UPI Transaction ID:119906968241
+Paidby Bankof Baroda2834
+14Mar,2026 Paidto Indian Railways UTS ₹9.70
+07:52AM UPI Transaction ID:119986635077
+Paidby Bankof Baroda2834
+14Mar,2026 Paidto VASANTSHIVANNASHETTY ₹10
+12:16PM UPI Transaction ID:119997920435
+Paidby Bankof Baroda2834
+16Mar,2026 Paidto SMART ₹30
+10:50AM UPI Transaction ID:120096575311
+Paidby Bankof Baroda2834
+Note:Thisstatementreflectspaymentsmadebyyouonthe Google Payapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.Anypaymentstransactionsandactivitydeletedfromyour Google Accountwillnotshowupinthisstatement.
+Page1of10Transaction statement
+9370475161, krupam143637@gmail.com
+Date&time Transactiondetails Amount
+17Mar,2026 Paidto Indian Railways UTS ₹97
+10:38AM UPI Transaction ID:120147022688
+Paidby Bankof Baroda2834
+18Mar,2026 Paidto Gayatri Deepak Gaikwad ₹610
+02:32PM UPI Transaction ID:644342712800
+Paidby Bankof Baroda2834
+19Mar,2026 Receivedfrom Satyam Patil ₹12,000
+06:21PM UPI Transaction ID:120273004558
+Paidto Bankof Baroda2834
+19Mar,2026 Paidto Satyam Patil ₹12,000
+08:41PM UPI Transaction ID:607878038419
+Paidby Bankof Baroda2834
+22Mar,2026 Paidto APPLEMEDIASERVICES ₹5
+02:00PM UPI Transaction ID:102957108268
+Paidby Bankof Baroda2834
+22Mar,2026 Receivedfrom Satyam Patil ₹169
+02:01PM UPI Transaction ID:120406344203
+Paidto Bankof Baroda2834
+22Mar,2026 Paidto Satyam Patil ₹164
+02:08PM UPI Transaction ID:608109462006
+Paidby Bankof Baroda2834
+22Mar,2026 Paidto HINGLAJMEDICALSTORES ₹4
+09:15PM UPI Transaction ID:120430209379
+Paidby Bankof Baroda2834
+24Mar,2026 Receivedfrom Gayatri Gaikwad ₹35
+02:53PM UPI Transaction ID:608379322860
+Paidto Bankof Baroda2834
+24Mar,2026 Receivedfromsarthg ₹35
+02:54PM UPI Transaction ID:120504783084
+Paidto Bankof Baroda2834
+Note:Thisstatementreflectspaymentsmadebyyouonthe Google Payapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.Anypaymentstransactionsandactivitydeletedfromyour Google Accountwillnotshowupinthisstatement.
+Page2of10Transaction statement
+9370475161, krupam143637@gmail.com
+Date&time Transactiondetails Amount
+24Mar,2026 Paidto MANISHAICECREAMPARLO ₹165
+02:54PM UPI Transaction ID:120504818124
+Paidby Bankof Baroda2834
+25Mar,2026 Paidto Indian Railways UTS ₹67.90
+06:21PM UPI Transaction ID:120564755575
+Paidby Bankof Baroda2834
+27Mar,2026 Paidto SMART ₹20
+05:58PM UPI Transaction ID:1206
